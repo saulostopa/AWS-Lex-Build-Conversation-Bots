@@ -23,7 +23,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This projects uses PubNub chat feature with Amazon Lex integration to trigger actions like extend a reservation, request a refund, contact support.
+This projects uses PubNub chat feature with Amazon Lex integration to trigger actions like extend a reservation, request a refund, contact support. The Alexa use a dialog model to identify the prompts and user utterances to collect, validate, and confirm slot values and intents.
 
 <!-- <a href="https://www.pubnub.com/integrations/amazon-lex-build-conversation-bots/" target="_blank">
     <img src="https://images.ctfassets.net/3prze68gbwl1/H3MlwDtAQ8oM2jdz3F8jO/2ab2ef94fd6243a84455d320cf08dfef/react-native-app.gif" alt="Logo" >
@@ -35,26 +35,23 @@ This projects uses PubNub chat feature with Amazon Lex integration to trigger ac
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This section list the major frameworks/libraries/services used to bootstrap this project.
 
 * [AWS]()
 * * [Cognito](https://docs.aws.amazon.com/cognito/latest/developerguide/what-is-amazon-cognito.html)
 * * [Alexa](https://developer.amazon.com/en-US/docs/alexa/smapi/send-a-message-request-to-a-skill.html)
+* * * [Delegate Dialog](https://developer.amazon.com/en-US/docs/alexa/custom-skills/delegate-dialog-to-alexa.html)
+* * * [Validation Slot Values](https://developer.amazon.com/en-US/docs/alexa/custom-skills/validate-slot-values.html#configure)
+* * * [Interaction Model Scheme](https://developer.amazon.com/en-US/docs/alexa/smapi/interaction-model-schema.html)
 * * [Lambda Function](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html)
 * * * [VPC](https://docs.aws.amazon.com/lambda/latest/dg/configuration-vpc.html)
 * * [IAM Policy for](https://aws.amazon.com/iam/)
-* * * [AWSLambdaBasicExecutionRole]
-* * * [AWSXRayDaemonWriteAccess]
-* * * [AmazonDocDBReadOnlyAccess]
-* * * [AmazonDocDBFullAccess]
-* * * [AmazonDocDBConsoleFullAccess]
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* * * AWSLambdaBasicExecutionRole
+* * * AWSXRayDaemonWriteAccess
+* * * AmazonDocDBReadOnlyAccess
+* * * AmazonDocDBFullAccess
+* * * AmazonDocDBConsoleFullAccess
+* [PubNub Integration for Amazon Lex](https://www.pubnub.com/integrations/amazon-lex-build-conversation-bots/)
+* [Node.js](https://nodejs.dev/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
