@@ -43,6 +43,7 @@ This section list the major frameworks/libraries/services used to bootstrap this
 * * * [Delegate Dialog](https://developer.amazon.com/en-US/docs/alexa/custom-skills/delegate-dialog-to-alexa.html)
 * * * [Validation Slot Values](https://developer.amazon.com/en-US/docs/alexa/custom-skills/validate-slot-values.html#configure)
 * * * [Interaction Model Scheme](https://developer.amazon.com/en-US/docs/alexa/smapi/interaction-model-schema.html)
+* * * [Add Card to the Reservation or Refund](https://developer.amazon.com/en-US/docs/alexa/custom-skills/include-a-card-in-your-skills-response.html)
 * * [Lambda Function](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html)
 * * * [VPC](https://docs.aws.amazon.com/lambda/latest/dg/configuration-vpc.html)
 * * [IAM Policy for](https://aws.amazon.com/iam/)
