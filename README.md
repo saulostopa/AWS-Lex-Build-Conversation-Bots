@@ -25,7 +25,7 @@
 
 This projects uses PubNub chat feature with Amazon Lex integration to trigger actions like extend a reservation, request a refund, contact support. The Alexa use a dialog model to identify the prompts and user utterances to collect, validate, and confirm slot values and intents.
 
-<a href="https://www.pubnub.com/integrations/amazon-lex-build-conversation-bots/" target="_blank" rel="noopener">
+<a href="https://www.pubnub.com/integrations/amazon-lex-build-conversation-bots/" onclick="return ! window.open(this.href);">
     <img src="images/AWS-Lex-and-PubNub-Architecture.png" alt="Architecture by Saulo Stopa" >
 </a>
 
