@@ -38,20 +38,20 @@ This projects uses PubNub chat feature with Amazon Lex integration to trigger ac
 This section list the major frameworks/libraries/services used to bootstrap this project.
 
 * [AWS]()
-* * [Cognito](https://docs.aws.amazon.com/cognito/latest/developerguide/what-is-amazon-cognito.html)
 * * [Alexa](https://developer.amazon.com/en-US/docs/alexa/smapi/send-a-message-request-to-a-skill.html)
 * * * [Delegate Dialog](https://developer.amazon.com/en-US/docs/alexa/custom-skills/delegate-dialog-to-alexa.html)
 * * * [Validation Slot Values](https://developer.amazon.com/en-US/docs/alexa/custom-skills/validate-slot-values.html#configure)
 * * * [Interaction Model Scheme](https://developer.amazon.com/en-US/docs/alexa/smapi/interaction-model-schema.html)
 * * * [Add Card to the Reservation or Refund](https://developer.amazon.com/en-US/docs/alexa/custom-skills/include-a-card-in-your-skills-response.html)
-* * [Lambda Function](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html)
-* * * [VPC](https://docs.aws.amazon.com/lambda/latest/dg/configuration-vpc.html)
+* * [Cognito](https://docs.aws.amazon.com/cognito/latest/developerguide/what-is-amazon-cognito.html)
 * * [IAM Policy for](https://aws.amazon.com/iam/)
 * * * AWSLambdaBasicExecutionRole
 * * * AWSXRayDaemonWriteAccess
 * * * AmazonDocDBReadOnlyAccess
 * * * AmazonDocDBFullAccess
 * * * AmazonDocDBConsoleFullAccess
+* * [Lambda Function](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html)
+* * * [VPC](https://docs.aws.amazon.com/lambda/latest/dg/configuration-vpc.html)
 * [PubNub Integration for Amazon Lex](https://www.pubnub.com/integrations/amazon-lex-build-conversation-bots/)
 * [Node.js](https://nodejs.dev/)
 
