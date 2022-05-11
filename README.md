@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://www.pubnub.com/integrations/amazon-lex-build-conversation-bots/" target="_blank">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo_lex.jpeg" alt="Amazon Lex" width="80" height="80">
   </a>
 
   <h3 align="center">Amazon Lex Build Conversation Bots with PubNub</h3>
@@ -25,9 +25,9 @@
 
 This projects uses PubNub chat feature with Amazon Lex integration to trigger actions like extend a reservation, request a refund, contact support. The Alexa use a dialog model to identify the prompts and user utterances to collect, validate, and confirm slot values and intents.
 
-<!-- <a href="https://www.pubnub.com/integrations/amazon-lex-build-conversation-bots/" target="_blank">
-    <img src="https://images.ctfassets.net/3prze68gbwl1/H3MlwDtAQ8oM2jdz3F8jO/2ab2ef94fd6243a84455d320cf08dfef/react-native-app.gif" alt="Logo" >
-</a> -->
+<a href="https://www.pubnub.com/integrations/amazon-lex-build-conversation-bots/" target="_blank">
+    <img src="images/AWS-Lex-and-PubNub-Architecture.png" alt="Architecture by Saulo Stopa" >
+</a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
