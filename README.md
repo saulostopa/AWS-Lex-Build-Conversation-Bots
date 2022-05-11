@@ -38,7 +38,7 @@ This projects uses PubNub chat feature with Amazon Lex integration to trigger ac
 This section list the major frameworks/libraries/services used to bootstrap this project.
 
 * [AWS]()
-* * [Alexa](https://developer.amazon.com/en-US/docs/alexa/smapi/send-a-message-request-to-a-skill.html){:target="_blank" rel="noopener"}
+* * [Alexa](https://developer.amazon.com/en-US/docs/alexa/smapi/send-a-message-request-to-a-skill.html target="_blank" rel="noopener")
 * * * [Delegate Dialog](https://developer.amazon.com/en-US/docs/alexa/custom-skills/delegate-dialog-to-alexa.html){:target="_blank" rel="noopener"}
 * * * [Validation Slot Values](https://developer.amazon.com/en-US/docs/alexa/custom-skills/validate-slot-values.html#configure){:target="_blank" rel="noopener"}
 * * * [Interaction Model Scheme](https://developer.amazon.com/en-US/docs/alexa/smapi/interaction-model-schema.html){:target="_blank" rel="noopener"}
