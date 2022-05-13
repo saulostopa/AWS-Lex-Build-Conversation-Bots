@@ -1,6 +1,5 @@
 <div id="top"></div>
 
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://www.pubnub.com/integrations/amazon-lex-build-conversation-bots/">
@@ -47,7 +46,6 @@ This section list the major frameworks/libraries/services used to bootstrap this
 * * [IAM Policy for](https://aws.amazon.com/iam/)
 * * * AWSLambdaBasicExecutionRole
 * * * AWSXRayDaemonWriteAccess
-* * * AmazonDocDBReadOnlyAccess
 * * * AmazonDocDBFullAccess
 * * * AmazonDocDBConsoleFullAccess
 * * [Lambda Function](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html)
